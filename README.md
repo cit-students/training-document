@@ -8,3 +8,6 @@ All document during training.
 
 # Maven
 [Maven in 5 min](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+
+# Restful
+[Restful Best Practice](https://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
