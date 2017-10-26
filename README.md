@@ -15,7 +15,9 @@ All document during training.
 [Restful Best Practice](https://blog.mwaysolutions.com/2014/06/05/10-best-practices-for-better-restful-api/)
 
 # Spring boot
+
 [1.5.8 Reference](https://docs.spring.io/spring-boot/docs/1.5.8.RELEASE/reference/htmlsingle/)
+
 [JPA MySQL Sample](https://gigsterous.github.io/engineering/2016/09/25/spring-boot-2.html)
 
 # Hibernate
