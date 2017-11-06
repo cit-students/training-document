@@ -22,3 +22,6 @@ All document during training.
 
 # Hibernate
 [Hibernate 5](http://docs.jboss.org/hibernate/orm/5.1/userguide/html_single/Hibernate_User_Guide.html)
+
+# Spring Data JPA
+[Spring Data Jpa](https://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/htmlsingle/)
